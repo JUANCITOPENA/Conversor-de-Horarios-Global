@@ -121,7 +121,8 @@ async function getTime() {
     }
 
     try {
-        const response = await fetch(`http://worldtimeapi.org/api/timezone/${timezone}`);
+        const response = await fetch(`https://worldtimeapi.org/api/timezone/${timezone}`);
+
         if (!response.ok) {
             throw new Error("Zona horaria no encontrada");
         }
