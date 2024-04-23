@@ -48,11 +48,12 @@ Si te gusta este proyecto, compártelo con tus amigos y colegas. Puedes apoyar e
 ---
 ### Sígueme en mis redes sociales: No olvides suscribirte, darle like, y compartir este video para ayudarnos a seguir creando contenido como este. ¡Vamos a comenzar! 😊📡
 
-1-🎬 Youtube: https://www.youtube.com/@JuancitoPenaV 
-2-👨‍💼 LinkedIn: https://www.linkedin.com/in/juancitope%C3%B1a/
-3-📰 Blog: https://advisertecnology.com/
-4-📷 Instagram: https://www.instagram.com/juancito.pena.v/
-5-📑 Facebook: https://www.facebook.com/juancito.p.v
-6-🐦 Twitter: https://twitter.com/JuancitoPenaV
+1. 🎬 **YouTube**: [@JuancitoPenaV](https://www.youtube.com/@JuancitoPenaV)
+2. 👨‍💼 **LinkedIn**: [Juancito Peña](https://www.linkedin.com/in/juancitope%C3%B1a/)
+3. 📰 **Blog**: [Adviser Tecnology](https://advisertecnology.com/)
+4. 📷 **Instagram**: [@juancito.pena.v](https://www.instagram.com/juancito.pena.v/)
+5. 📑 **Facebook**: [Juancito Peña V](https://www.facebook.com/juancito.p.v)
+6. 🐦 **Twitter**: [@JuancitoPenaV](https://twitter.com/JuancitoPenaV)
+7. 📰 **Blog**: [Adviser Tecnology](https://advisertecnology.com/)
 
 Tu apoyo me ayuda a seguir creando herramientas y recursos útiles. ¡Gracias por tu ayuda!
