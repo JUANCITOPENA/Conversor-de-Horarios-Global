@@ -33,3 +33,35 @@ El Conversor de Horarios Global es útil para una variedad de situaciones:
 
 Esta herramienta facilita la sincronización de actividades y la planificación a nivel global, simplificando un problema común para muchas personas.
 
+## Cómo clonar el repositorio
+Para clonar el repositorio y comenzar a trabajar en tu entorno local, ejecuta el siguiente comando:
+
+```bash
+git clone https://github.com/tu-usuario/conversor-de-horarios-global.git
+
+
+## Licencia
+Este proyecto está licenciado bajo la [Licencia MIT](LICENSE). Puedes usarlo, modificarlo y distribuirlo libremente, pero debes proporcionar crédito al autor original.
+
+## Comparte y apoya
+Si te gusta este proyecto, compártelo con tus amigos y colegas. Puedes apoyar el desarrollo del proyecto de las siguientes maneras:
+
+- Dale una estrella ⭐ en GitHub.
+
+- Sígueme en mis redes sociales: No olvides suscribirte, darle like, y compartir este video para ayudarnos a seguir creando contenido como este. ¡Vamos a comenzar! 😊📡
+
+1. 🎬 **YouTube**: [@JuancitoPenaV](https://www.youtube.com/@JuancitoPenaV)
+
+2. 👨‍💼 **LinkedIn**: [Juancito Peña](https://www.linkedin.com/in/juancitope%C3%B1a/)
+
+3. 📰 **Blog**: [Adviser Tecnology](https://advisertecnology.com/)
+
+4. 📷 **Instagram**: [@juancito.pena.v](https://www.instagram.com/juancito.pena.v/)
+
+5. 📑 **Facebook**: [Juancito Peña V](https://www.facebook.com/juancito.p.v)
+
+6. 🐦 **Twitter**: [@JuancitoPenaV](https://twitter.com/JuancitoPenaV)
+
+7. 📰 **Blog**: [Adviser Tecnology](https://advisertecnology.com/)
+
+Tu apoyo me ayuda a seguir creando herramientas y recursos útiles. ¡Gracias por tu ayuda!
