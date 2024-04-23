@@ -36,9 +36,7 @@ Esta herramienta facilita la sincronización de actividades y la planificación 
 ## Cómo clonar el repositorio
 Para clonar el repositorio y comenzar a trabajar en tu entorno local, ejecuta el siguiente comando:
 
-```bash
 git clone https://github.com/tu-usuario/conversor-de-horarios-global.git
-
 
 ## Licencia
 Este proyecto está licenciado bajo la [Licencia MIT](LICENSE). Puedes usarlo, modificarlo y distribuirlo libremente, pero debes proporcionar crédito al autor original.
