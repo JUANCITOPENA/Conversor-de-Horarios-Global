@@ -46,9 +46,9 @@ Este proyecto está licenciado bajo la [Licencia MIT](LICENSE). Puedes usarlo, m
 ## Comparte y apoya
 Si te gusta este proyecto, compártelo con tus amigos y colegas. Puedes apoyar el desarrollo del proyecto de las siguientes maneras:
 
-- Dale una estrella ⭐ en GitHub.
-
-- Sígueme en mis redes sociales: No olvides suscribirte, darle like, y compartir este video para ayudarnos a seguir creando contenido como este. ¡Vamos a comenzar! 😊📡
+## Dale una estrella ⭐ en GitHub.
+---
+### Sígueme en mis redes sociales: No olvides suscribirte, darle like, y compartir este video para ayudarnos a seguir creando contenido como este. ¡Vamos a comenzar! 😊📡
 
 1-🎬 Youtube: https://www.youtube.com/@JuancitoPenaV 
 2-👨‍💼 LinkedIn: https://www.linkedin.com/in/juancitope%C3%B1a/
