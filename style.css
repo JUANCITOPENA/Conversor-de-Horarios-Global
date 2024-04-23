@@ -1,0 +1,176 @@
+/* Estilo básico para la página */
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+/* Estilizado para el contenedor principal */
+.container {
+    max-width: 70%; /* Mantener un tamaño manejable */
+    margin: 0 auto; /* Centrarse horizontalmente */
+    padding: 20px;
+    background-color: #ffffff; /* Fondo blanco para contraste */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Sombra para profundidad */
+    border-radius: 10px; /* Bordes redondeados */
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #3498db; /* Azul fuerte para contraste */
+    color: #ffffff; /* Texto blanco para legibilidad */
+    border-radius: 10px 10px 0 0; /* Bordes redondeados superiores */
+}
+
+/* Estilos para el banner */
+.banner {
+    background-color: #2980b9; /* Fondo para el banner */
+    padding: 15px;
+    border-radius: 5px;
+    text-align: center; /* Centrar el contenido */
+}
+
+.banner img {
+    max-width: 100%; /* Asegurarse de que la imagen se ajuste al ancho */
+    height: auto; /* Mantener la proporción */
+}
+
+
+h1 {
+    font-size: 2em; /* Aumentar el tamaño del título */
+}
+
+h2 {
+    font-size: 1.5em; /* Ajustar el tamaño del subtítulo */
+    color: #333;
+    text-align: center;
+}
+
+.input-section {
+    text-align: center;
+    margin: 30px 0; /* Espaciado entre secciones */
+}
+
+.input-section input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 60%; /* Ancho del input */
+    text-align: center;
+}
+
+.input-section button {
+    padding: 10px 20px;
+    background-color: #3498db;
+    border: none;
+    color: #ffffff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.input-section button:hover {
+    background-color: #2980b9; /* Efecto hover */
+    text-align: center;
+}
+
+/* Mantener el estilo existente para la sección de resultados */
+.result-section {
+    text-align: center;
+    margin: 20px 0; /* Espaciado para el resultado */
+}
+
+.result-section p {
+    font-size: 1.2em; /* Tamaño de texto del resultado */
+    color: #333; /* Color del texto por defecto */
+}
+
+/* Estilo para resultados positivos */
+.result-positive {
+    background-color: #fff8b8; /* Amarillo claro tipo fluorescente */
+    color: #333; /* Texto oscuro para contraste */
+    font-weight: bold; /* Texto en negrita */
+    padding: 10px; /* Espaciado interno */
+    border-radius: 5px; /* Bordes redondeados */
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+/* Estilo para resultados negativos */
+.result-negative {
+    background-color: #ff4d4d; /* Fondo rojo para errores */
+    color: #ffffff; /* Texto blanco para contraste */
+    font-weight: bold; /* Texto en negrita */
+    padding: 10px; /* Espaciado interno */
+    border-radius: 5px; /* Bordes redondeados */
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+
+/* Estilo para el select (lista desplegable) */
+select {
+    padding: 10px; /* Espaciado interno */
+    border: 1px solid #ccc; /* Borde suave */
+    border-radius: 5px; /* Bordes redondeados */
+    background-color: #ffffff; /* Fondo blanco */
+    color: #333; /* Texto gris oscuro para legibilidad */
+    font-family: 'Roboto', sans-serif; /* Fuente consistente */
+    font-size: 1em; /* Tamaño del texto */
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Sombra suave para profundidad */
+    transition: all 0.3s; /* Transición para suavidad */
+}
+
+select:hover, select:focus {
+    border-color: #3498db; /* Cambiar color de borde al hacer hover/focus */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Sombra más intensa */
+}
+
+select option {
+    padding: 10px; /* Espaciado para las opciones */
+    background-color: #ffffff; /* Fondo blanco para cada opción */
+    color: #333; /* Color de texto */
+}
+
+select option[value=""] {
+    color: #aaa; /* Color para la opción predeterminada */
+}
+
+/* Estilo para el datalist */
+datalist {
+    font-family: 'Roboto', sans-serif; /* Fuente consistente */
+    border: 1px solid #ccc; /* Borde suave */
+    border-radius: 5px; /* Bordes redondeados */
+    padding: 5px; /* Espaciado interno */
+    background-color: #ffffff; /* Fondo blanco */
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+input[list="timezone-list"] {
+    padding: 10px; /* Espaciado interno */
+    border: 1px solid #ccc; /* Borde suave */
+    border-radius: 5px; /* Bordes redondeados */
+    font-family: 'Roboto', sans-serif; /* Fuente consistente */
+    background-color: #ffffff; /* Fondo blanco */
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    transition: all 0.3s; /* Suavidad en las transiciones */
+}
+
+input[list="timezone-list"]:hover, input[list="timezone-list"]:focus {
+    border-color: #3498db; /* Cambiar color del borde en hover/focus */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Sombra más pronunciada */
+}
+
+
+@media (max-width: 768px) { /* Responsividad */
+    .container {
+        max-width: 90%; /* Más ancho en pantallas pequeñas */
+    }
+
+    .input-section input {
+        width: 80%; /* Ajustar ancho del input */
+    }
+
+    .input-section button {
+        padding: 10px 15px; /* Ajustar tamaño del botón */
+    }
+}

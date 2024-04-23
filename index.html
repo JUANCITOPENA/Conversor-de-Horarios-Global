@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Conversor de Horarios Global</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
+    <!-- Fuente Roboto -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container"> <!-- Contenedor principal -->
+        <header>
+            <h1>Conversor de Horarios Global</h1>
+            <div class="banner">
+                <img src="banner.png" alt="Banner de bienvenida"> <!-- Imagen de fondo -->
+            </div>
+        </header>
+
+        <main>
+            <h2>Elija su zona horaria</h2>
+            <div class="input-section">
+                <!-- Campo de entrada con datalist para autocompletado -->
+                <input type="text" id="timezone-input" list="timezone-list" placeholder="Ej: EL Formato de Busqueda es: America/Mexico_City"
+                    oninput="filterTimezones()">
+                <!-- Datalist para autocompletado -->
+                <datalist id="timezone-list"></datalist>
+                <br><br>
+
+                <!-- Lista desplegable (select) para elegir la zona horaria -->
+                <select id="timezone-select" onchange="selectTimezone()">
+                    <option value="">Seleccione una zona horaria</option> <!-- Opción predeterminada -->
+                </select>
+
+                <br><br>
+
+                <button onclick="getTime()">Buscar</button>
+            </div>
+
+            <div class="result-section">
+                <p id="result"></p>
+            </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script> <!-- Revisa que este archivo esté cargando correctamente -->
+</body>
+
+</html>
