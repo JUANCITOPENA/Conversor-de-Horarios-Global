@@ -46,7 +46,7 @@ Si te gusta este proyecto, compártelo con tus amigos y colegas. Puedes apoyar e
 
 ## Dale una estrella ⭐ en GitHub.
 ---
-### Sígueme en mis redes sociales: No olvides suscribirte, darle like, y compartir este video para ayudarnos a seguir creando contenido como este. ¡Vamos a comenzar! 😊📡
+### Sígueme en mis redes sociales: No olvides suscribirte, darle like, y compartir  para ayudarnos a seguir creando contenido como este. ¡Vamos a comenzar! 😊📡
 
 1. 🎬 **YouTube**: [@JuancitoPenaV](https://www.youtube.com/@JuancitoPenaV)
 2. 👨‍💼 **LinkedIn**: [Juancito Peña](https://www.linkedin.com/in/juancitope%C3%B1a/)
