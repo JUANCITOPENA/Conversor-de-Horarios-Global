@@ -13,6 +13,10 @@ El Conversor de Horarios Global proporciona una lista desplegable con todas las 
 4. La aplicación muestra estos datos en la interfaz de usuario, permitiendo al usuario ver la hora actual en esa zona horaria.
 5. En caso de error, como una zona horaria no válida, la aplicación muestra un mensaje de error claro y comprensible.
 
+### Portada:
+
+![](ZONAHORARIA.png)
+
 ## Tecnologías Utilizadas
 El proyecto utiliza una combinación de tecnologías modernas para proporcionar una experiencia fluida y atractiva:
 
